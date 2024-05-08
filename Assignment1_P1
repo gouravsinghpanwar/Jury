@@ -10,7 +10,6 @@ for i in n:
         b =''
 if b:
     a.append(int(b))
-c = a[::1]
 total = 0
 for b in c:
     total =total+b
